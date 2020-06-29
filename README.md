@@ -1,3 +1,3 @@
 # py-repo
 
-pagla gaye ho kya!
+its just a tutorial
